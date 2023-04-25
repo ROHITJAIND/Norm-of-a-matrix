@@ -36,9 +36,9 @@ print("%.2f"%soln)
 ```
 ## Output:
 1-Norm of a Matrix  
-<img width=20% height=10% src="./images/output1.png">  
+<img width=20% height=10% src="./Norm-of-a-matrix/images/output1.png">  
 2-Norm of a Matrix  
-<img width=20% height=10% src="./images/output2.png">  
+<img width=20% height=10% src="./Norm-of-a-matrix/images/output2.png">  
 Infinity Norm of a Matrix  
 <img width=20% height=10% src="./images/output3.png">
 ## Result
