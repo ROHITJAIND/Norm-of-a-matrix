@@ -36,10 +36,10 @@ print("%.2f"%soln)
 ```
 ## Output:
 1-Norm of a Matrix  
-![OUTPUT](./images/output1.png)  
+<img width=20% height=10% src="./images/output1.png">  
 2-Norm of a Matrix  
-![OUTPUT](./images/output2.png)  
+<img width=20% height=10% src="./images/output2.png">  
 Infinity Norm of a Matrix  
-![OUTPUT](./images/output3.png)
+<img width=20% height=10% src="./images/output3.png">
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
