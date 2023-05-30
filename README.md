@@ -1,9 +1,8 @@
 # Norm of a matrix
-## Aim
+## Aim:
 To write a program to find the 1-norm, 2-norm and infinity norm of the matrix and display the result in two decimal places.
 ## Equipment’s required:
-1.	Hardware – PCs
-2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
+- Hardware – PCs , Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 1. Import numpy module
 1. Get the input matrix using np.array()   
